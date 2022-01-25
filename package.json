@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/kusumasandhya7799/nodecrudapi/issues"
   },
-  "homepage": "https://github.com/kusumasandhya7799/nodecrudapi#readme"
+  "homepage": "https://github.com/kusumasandhya7799/nodecrudapi#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
